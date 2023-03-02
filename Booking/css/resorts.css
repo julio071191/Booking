@@ -1,0 +1,28 @@
+﻿img{
+    width:350px;
+    height:250px;
+}
+
+p {    
+    max-height: 300px;
+    overflow-y: scroll
+}
+
+#cardResorts {
+    width: 18rem;
+    margin-left: 15px;
+    margin-top: 20px
+}
+
+#btnSave, #btnLogin {
+    float: right;
+}
+
+#offCanvaHeader {
+    background-color: #212529;
+}
+
+#offcanvasExampleLabel {
+    color: white
+}
+   
